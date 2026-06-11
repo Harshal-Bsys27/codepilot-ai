@@ -7,6 +7,8 @@ __pycache__/
 venv/
 .venv/
 backend/venv/
+venv/
+backend/venv/
 
 # Environment Variables
 .env
